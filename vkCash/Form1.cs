@@ -32,7 +32,7 @@ namespace vkCash
             #endregion         
         }
 
-            #region
+        #region
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
 
